@@ -238,7 +238,7 @@
     <Content Include="webfonts\fa-solid-900.woff2" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BLL\tlbLivrosBLL.cs" />
+    <Compile Include="BLL\tblLivrosBLL.cs" />
     <Compile Include="DAL\DALMysql.cs" />
     <Compile Include="DTO\tblLivrosDTO.cs" />
     <Compile Include="UI\FrmLivros.aspx.cs">
